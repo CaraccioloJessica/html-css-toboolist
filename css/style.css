@@ -68,3 +68,36 @@ background-color: #F6F8F9;
   background-color: #fff;
   border: 1px solid lightgray;
 }
+
+/* New task section */
+.task-margin{
+  padding: 0 50px;
+}
+
+section{
+  margin-bottom: 30px;
+}
+
+h2{
+  color: #444851;
+  margin-bottom: 10px;
+}
+
+.checkmark{
+  font-size: 12px;
+  font-weight: bold;
+  color: #75C9B6;
+  padding: 1px 4px;
+  border-radius: 40px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid #75C9B6;
+  margin-right: 5px;
+}
+
+.blue{
+  font-size: 11px;
+  padding: 6px 8px;
+  color: #fff;
+  background-color: #45ABEA;
+  border-radius: 10px;
+}
