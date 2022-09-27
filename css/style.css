@@ -6,12 +6,11 @@
 }
 body{
 font-family: Arial, Helvetica, sans-serif;
-font-weight: 700;
 background-color: #F6F8F9;
 }
 
 /* Header */
-#container{
+#container-logo{
   width: 100%;
   margin: auto;
   background-color: #fff;
@@ -28,7 +27,44 @@ background-color: #F6F8F9;
 #testo-logo{
   color: #000;
   font-size: 40px;
+  font-weight: 700;
   vertical-align: middle;
   line-height: 70px;
+}
 
+/* Container Task */
+.container-task{
+  width: 60%;
+  height: 600px;
+  margin: 40px auto;
+  background-color: #fff;
+  border-radius:10px;
+}
+
+/* Buttons Section */
+#container-button{
+  width: 100%;
+  height: 60px;
+  background-color: #fff;
+  padding: 20px 50px;
+  border-bottom: 2px solid #F6F8F9;
+  border-radius: 10px 10px 0 0;
+}
+
+.button{
+  padding: 6px 9px;
+  border-radius: 5px;
+}
+
+/* button color */
+.azure{
+  color: #fff;
+  background-color: #47ADF1;
+  border: none;
+}
+
+.white{
+  color: lightgray;
+  background-color: #fff;
+  border: 1px solid lightgray;
 }
