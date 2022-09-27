@@ -140,5 +140,20 @@ h2{
   border-radius: 10px;
 }
 
+.pink{
+  font-size: 11px;
+  padding: 6px 8px;
+  color: #fff;
+  background-color: #D863A1;
+  border-radius: 10px;
+}
+
+.yellow-green{
+  font-size: 11px;
+  padding: 6px 8px;
+  color: #fff;
+  background-color: #B0C926;
+  border-radius: 10px;
+}
 
 
